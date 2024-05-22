@@ -4,20 +4,20 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "6288226772171"
+global.ownernomer = "6285712408309"
 global.resmiwa = "1"
 global.ownername = "🦄 SATARUZ "
 global.ytname = "SATARUZ"
-global.socialm = "GitHub: YosepWD"
+global.socialm = "GitHub: Nathansi04"
 global.location = "India, Mizoram, Aizawl"
 
-global.ownernumber = '6288226772171'  //creator number
+global.ownernumber = '6285712408309'  //creator number
 global.ownername = '🦄 SATARUZ' //owner name
 global.botname = '☠️MALAIKAT PINJOL💀' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '🦄 SATARUZ\n\nContact: +6285215149836'
+global.author = '🦄 SATARUZ\n\nContact: +6281952063349'
 
 //console view/theme
 global.themeemoji = '🪀'
@@ -25,7 +25,7 @@ global.wm = "💥 G TARGET G CUAN 💥"
 
 
 //theme link
-global.link = 'https://whatsapp.com/channel/SATARUZ'
+global.link = 'https://whatsapp.com/channel/0029VaYLbikDDmFLrmrgs90E'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
